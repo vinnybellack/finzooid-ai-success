@@ -1,5 +1,7 @@
 # finzooid-ai-success
 Data-driven customer success strategy using ChatGPT, dashboards, and automation to reduce churn and improve feature adoption.
+
+
 🔹 AI-Powered Customer Success & Analytics – Finzooid (2019–2022)
 
 This project demonstrates how I led the transformation of customer success operations at Finzooid using GenAI tools and data automation. As a Customer Relations Manager, I integrated generative AI into feedback analysis, reporting, and engagement workflows to improve retention, reduce churn, and drive proactive success strategies.
