@@ -42,9 +42,9 @@ This project demonstrates how I led the transformation of customer success opera
 📂 Files & Live Samples
 📊 dashboards
 
-    KPI Dashboard (.pbix)
+    KPI Dashboard [.pbix](https://drive.google.com/file/d/12vfqBLqAT8TOF2yQUttM_67uWIOHQN3r/view?usp=sharing)
 
-    Churn Risk Dashboard (PDF)
+    Churn Risk Dashboard [PDF](https://drive.google.com/file/d/12vfqBLqAT8TOF2yQUttM_67uWIOHQN3r/view?usp=sharing)
 
 🤖 genai-examples
 
